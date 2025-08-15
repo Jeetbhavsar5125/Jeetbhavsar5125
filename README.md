@@ -37,12 +37,20 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📊 Coding Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeetbhavsar5125&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jeetbhavsar5125&theme=onedark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetbhavsar5125&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/jitbhavsar40?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
 </p>
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jeetbhavsar5125&theme=onedark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetbhavsar5125&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 
 ---
 

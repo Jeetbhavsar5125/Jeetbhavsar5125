@@ -45,9 +45,8 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Jeetbhavsar5125&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeetbhavsar5125/Jeetbhavsar5125/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeetbhavsar5125/Jeetbhavsar5125/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jeetbhavsar5125/Jeetbhavsar5125/output/pacman-contribution-graph.svg">
+</picture>

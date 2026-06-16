@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeet Bhavsar</h1>
-<h3 align="center">Computer Science Student | Specializing in DSA, Web Development & AI | Building efficient and impactful solutions</h3>
+
+<h3 align="center">
+Fourth-Year Computer Science Engineering Student | Full-Stack Developer | Backend Enthusiast
+</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>DSA Challenge</strong><br/>
-  🌱 I’m currently learning <strong>DSA, Web Development, AI Tools</strong><br/>
-  📫 How to reach me: <strong>jitbhavsar40@gmail.com</strong>
+  🚀 Building scalable web applications and software products<br/>
+  🌱 Currently learning <strong>Docker, AWS, CI/CD, and System Design</strong><br/>
+  💻 Interested in <strong>Backend Engineering, Cloud Computing, DevOps, and Product Development</strong><br/>
+  📫 Reach me at: <strong>jitbhavsar40@gmail.com</strong>
 </p>
 
 ---
